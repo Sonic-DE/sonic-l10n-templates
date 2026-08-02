@@ -5965,7 +5965,7 @@ msgid ""
 msgstr ""
 
 #: content/docs/getting-started/kirigami/introduction-next_steps/index.md:41
-msgid "<img src=\"start-here-kde.png\" width=\"50\" height=\"50\"><br />Plasma Welcome"
+msgid "<img src=\"start-here-sonicde.png\" width=\"50\" height=\"50\"><br />Plasma Welcome"
 msgstr ""
 
 #: content/docs/getting-started/kirigami/introduction-next_steps/index.md:41

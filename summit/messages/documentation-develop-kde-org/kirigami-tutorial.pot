@@ -4807,7 +4807,7 @@ msgstr ""
 #. +> trunk5
 #: content/docs/getting-started/kirigami/introduction-next_steps/index.md:41
 msgid ""
-"<img src=\"start-here-kde.png\" width=\"50\" height=\"50\"><br />"
+"<img src=\"start-here-sonicde.png\" width=\"50\" height=\"50\"><br />"
 "Plasma Welcome"
 msgstr ""
 

@@ -20,8 +20,8 @@ msgstr ""
 #. +> trunk6 stable6 stable5
 #: contents/splash/Splash.qml:79
 #, kde-format
-msgctxt "This is the first text the user sees while starting in the splash screen, should be translated as something short, is a form that can be seen on a product. Plasma is the project name so shouldn't be translated."
-msgid "Plasma made by KDE"
+msgctxt "This is the first text the user sees while starting in the splash screen, should be translated as something short, is a form that can be seen on a product. SonicDE is the project name so shouldn't be translated."
+msgid "Welcome to SonicDE"
 msgstr ""
 
 #. +> stable6
